@@ -1,0 +1,43 @@
+body {
+		font-family: monospace;
+		color: FloralWhite;
+		background: url(tweed.webp) repeat;
+		max-width: 800px;
+		margin-left: auto;
+		margin-right: auto;
+}
+
+img {
+  padding: 10px 30px 10px 0px;
+  margin: auto;
+  display: block;
+  width: 90%; 
+  max-width: 600px;
+}
+
+article p {
+	text-indent: 30px;
+}
+
+h1 {
+	color: LightSalmon;
+}
+
+h2 {
+	color: BurlyWood;
+
+}
+
+.highlight {
+	color: Maroon;
+	font-weight: bold;
+	background-color: GoldenRod;
+}
+
+a:link {
+  color: Coral;
+}
+
+a:visited {
+  color: LightBlue;
+}
